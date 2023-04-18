@@ -11,7 +11,6 @@ export default function Home() {
       <Layout>
         <Hero />
         <Feature />
-        {/* <Pricing /> */}
       </Layout>
     </>
   );
